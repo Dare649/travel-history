@@ -1,0 +1,25 @@
+{
+    "travels":[
+        {   
+            "id": 1,
+            "origin": "Nigeria",
+            "destination": "Ghana",
+            "date": "23rd Oct, 2023",
+            "package": "Food"
+        },
+        {
+            "id": 2,
+            "origin": "Aba",
+            "destination": "Warri",
+            "date": "2oth Dec, 2022",
+            "package": "Car"
+        },
+        {
+            "id": 3,
+            "origin": "New-York",
+            "destination": "Manchester",
+            "date": "23rd Jan, 2023",
+            "package": "Cloth"
+        }
+    ]
+}
